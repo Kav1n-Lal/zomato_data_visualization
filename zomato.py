@@ -312,7 +312,7 @@ def display_scatter(candidate):
      )
     return fig1  
 
-#callback to update the restaurants of selected country's cities 
+#callback to update the graph of restaurants selected country's cities vs average cost 
 @app.callback(
     Output('nagar-cuisine', 'figure'),
     Input('nad', 'value'),
