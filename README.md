@@ -1,5 +1,5 @@
 # App Demo
-Click Below Link to view app demonstration video
+Click Link to view app demonstration video
 https://drive.google.com/file/d/1mVVVEmai97vdu9ek9a_eJvV6m_hZthxE/view?usp=sharing
 
 # Some Screenshots from the app
