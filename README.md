@@ -5,8 +5,8 @@ https://drive.google.com/file/d/1mVVVEmai97vdu9ek9a_eJvV6m_hZthxE/view?usp=shari
 # Some Screenshots from the app
 ![Screenshot (176)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/84497c51-5db7-4a1c-aff9-c139ebc7e53a)![Screenshot (177)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/98b3425e-1728-4ab0-949d-96d4f731f6e7)
 
-!![Screenshot (178)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/d6850dc1-e934-4a4a-a3ee-6dfa3d1075a3)
-[Screenshot (179)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/fc370972-923c-4375-a66c-95f774892044)
+![Screenshot (178)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/d6850dc1-e934-4a4a-a3ee-6dfa3d1075a3)
+![Screenshot (179)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/fc370972-923c-4375-a66c-95f774892044)
 
 ![Screenshot (180)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/413a23a1-62f5-421d-8e09-5745371aaeff)![Screenshot (181)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/86164fc5-bb52-442a-9411-a8955ac6a24c)
 ![Screenshot (182)](https://github.com/Kav1n-Lal/zomato_data_visualization/assets/116146011/60906724-9af1-4e77-9764-7bcfd8a440a1)
